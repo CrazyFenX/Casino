@@ -1,0 +1,15 @@
+D:\Универ\ОП\решения для себя\Casino\Casino\bin\Debug\Casino.exe.config
+D:\Универ\ОП\решения для себя\Casino\Casino\bin\Debug\Casino.exe
+D:\Универ\ОП\решения для себя\Casino\Casino\bin\Debug\Casino.pdb
+D:\Универ\ОП\решения для себя\Casino\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+D:\Универ\ОП\решения для себя\Casino\Casino\obj\Debug\MainWindow.g.cs
+D:\Универ\ОП\решения для себя\Casino\Casino\obj\Debug\App.g.cs
+D:\Универ\ОП\решения для себя\Casino\Casino\obj\Debug\Casino_MarkupCompile.cache
+D:\Универ\ОП\решения для себя\Casino\Casino\obj\Debug\Casino_MarkupCompile.lref
+D:\Универ\ОП\решения для себя\Casino\Casino\obj\Debug\MainWindow.baml
+D:\Универ\ОП\решения для себя\Casino\Casino\obj\Debug\Casino.g.resources
+D:\Универ\ОП\решения для себя\Casino\Casino\obj\Debug\Casino.Properties.Resources.resources
+D:\Универ\ОП\решения для себя\Casino\Casino\obj\Debug\Casino.csproj.GenerateResource.cache
+D:\Универ\ОП\решения для себя\Casino\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+D:\Универ\ОП\решения для себя\Casino\Casino\obj\Debug\Casino.exe
+D:\Универ\ОП\решения для себя\Casino\Casino\obj\Debug\Casino.pdb
